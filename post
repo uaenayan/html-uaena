@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>IU小公主</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <!-- Custom styles for this template -->
+  <link href="css/clean-blog.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">lovely girl</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        目录
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">主页</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="post.html">小公主</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="about.html">心</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+  <header class="masthead" style="background-image: url('img/post-bg.jpg')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading">
+            <h1>国民妹妹iu</h1>
+            <h2 class="subheading">樱花飘落的速度是秒速五厘米，而你认识iu只需打开这个网页</h2>
+            <span class="meta">来自于我的小公主
+               04-24, 2019</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Post Content -->
+  <article>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <h2 class="first-setion">艺名</h2>
+          <p>李知恩的艺名为IU，其中“I”指其自己、“U”则指受众群，意为希望自己和观众永远在一起，也希望自己的歌声能使听歌的人产生共鸣。</p> 
+          <p>其韩国的粉丝名称为U-ana（Uaena），其中“U”代表英文的you（你），而“ae”是韩文汉字语中“爱”的意思，“na”亦是韩文的“我” </p> 
+          <p>李知恩的姓名曾误译为“李智恩”，2010年9月26日播出的韩国SBS节目《星期天真好－英雄豪杰》第11集中，她在个人履历表的名字汉字一栏中填写为“李知恩”而非“李智恩”，方获正名。</p>
+
+          <a href="#">
+            <img class="img-fluid" src="img/post-sample-image.jpg" alt="">
+          </a>
+          <span class="caption text-muted">iu在认真唱歌</span>
+
+          <h2 class="second-setion">早年经历</h2>
+          <p>李知恩从幼儿园开始就十分喜欢听音乐，也常跟着爸爸去唱卡拉OK。在中学一年级时她在体育老师的推荐下站上了学校演出的舞台，从那一刻起就萌生了成为歌手的想法。</p>
+          <p>她曾先后参加20次选拔，其中包括JYP Entertainment举办的练习生选拔，均被拒绝。2007年10月，她通过了LOEN Entertainment的试镜，开始为期10个月的练习生生活，在此期间得到了夏东均等不少音乐人的帮助。
+          </p>
+
+          <a href="#">
+              <img class="img-fluid" src="img/post-sample-image1.jpg" alt="">
+          </a>
+          <span class="caption text-muted">正在熟睡的iu</span>
+
+          <h2 class="third-setion">演艺经历</h2>
+          <p>2008年9月，在Mnet音乐节目《M! Countdown》中演唱歌曲《迷儿》，正式出道；随后发行首张迷你专辑《Lost And Found》。2009年，发行首张正规专辑《Growing Up》。2010年，发行迷你专辑《Real》，主打歌《好日子》连续五周位居韩国Gaon榜榜首。2011年，发行第二张正规专辑《Last Fantasy》，全专歌曲总下载量超过1700万次。2012年，名列韩国福布斯名人榜第三位。</p>
+          <p>2013年，发行的第三张正规专辑《Modern Times》展现了多元化的歌曲风格。2014年5月，发行翻唱专辑《花书签》；12月，获得韩国盖洛普调查歌手部门第一位以及第16届Mnet亚洲音乐大奖最佳女歌手奖。2015年，发行迷你专辑《CHAT-SHIRE》，并被《Billboard》认可为韩国流行音乐百强榜的领跑者；同年，获得韩国大众文化艺术奖国务总理表彰奖；2017年4月，发行第四张正规专辑《Palette》。2017年9月，发表第二张翻唱专辑《花书签2》。
+
+          </p>
+          <p>李知恩还涉足主持以及表演领域，2011年1月，出演校园剧《dream high》；3月，成为SBS音乐节目《人气歌谣》的固定主持人。2013年，凭借周末剧《最佳李顺心》获得KBS演技大赏新人女演员奖。2015年，主演KBS金土剧《制作人》。2016年，主演古装穿越《步步惊心：丽》。
+          </p>
+          <p>2017年12月，获2017MAMA最佳女歌手奖。2018年1月，获得韩国金唱片奖音源部门大奖。
+          </p>
+          <p>2019年4月，首次主演电影《Persona》在网上放映。
+          </p>
+
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <hr>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <ul class="list-inline text-center">
+            <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          </ul>
+          <p class="copyright text-muted">Candy &copy; 国民妹妹 2019</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/clean-blog.js"></script>
+
+</body>
+
+</html>
